@@ -5,8 +5,6 @@
 Estou sempre em busca de desafios e da excelência máxima. 
 Procuro ser o melhor naquilo que faço.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandes-joaopaulo&layout=donut&theme=synthwave)![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandes-joaopaulo&show_icons=true&theme=synthwave) 
-
 ## Tecnologias que uso no dia a dia
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
