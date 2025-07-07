@@ -1,4 +1,4 @@
-# Olá! Eu sou o João Paulo 👋
+# Hi! I'm João Paulo👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-paulo-fernandes-212267228?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fbr.linkedin.com%2Fpub%2Fdir%2FJoao%2BPaulo%2FFernandes%2Fbr-0-Brasil)
 
