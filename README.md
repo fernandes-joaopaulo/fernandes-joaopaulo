@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jo%C3%A3o-paulo-fernandes-212267228?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fbr.linkedin.com%2Fpub%2Fdir%2FJoao%2BPaulo%2FFernandes%2Fbr-0-Brasil)
 
-## Tecnologias que uso no dia a dia
+## Technologies
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 ) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
